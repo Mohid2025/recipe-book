@@ -12,8 +12,8 @@ const Navbar = () => {
       </button>
     </div>
     <ul id="menu" className="hidden md:flex space-x-6">
-      <li><a href="#" className="font-bold text-white hover:text-gray-500">Home</a></li>
-      <li><a href="#" className="font-bold text-white hover:text-gray-500">About</a></li>
+      <li><a href="/" className="font-bold text-white hover:text-gray-500">Home</a></li>
+      <li><a href="/about" className="font-bold text-white hover:text-gray-500">About</a></li>
       <li><a href="#" className="font-bold text-white hover:text-gray-500">Recipies</a></li>
     </ul>
   </div>
